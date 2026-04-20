@@ -72,7 +72,7 @@
 |---------|------------|------------|
 | 🧺 **Laundry Desk SaaS** | Laravel, CodeIgniter, MySQL, Angular | Subscription-based multi-tenant SaaS with auto DB/directory creation |
 | 🧼 **Salon System SaaS** | Laravel, CodeIgniter 3, MySQL | Company-code login, feature gating, daily ops management |
-| 📦 **Inventory Management SaaS** | Laravel, Vue.js, MySQL | POS, stock transfers, quotations, reporting |
+| 📦 **Inventory Management System SaaS** | Laravel, Vue.js, MySQL | POS, stock transfers, quotations, reporting |
 | 🏛️ **DDA RFID System** | Laravel, MySQL, Python | Automated RFID validation with Windows EXE notifications |
 | 🤖 **WhatsApp Automation** | Laravel, Node.js, MySQL | AI-powered (Gemini/Claude/ChatGPT), Google Sheets & Calendar integration |
 | 🏆 **Auction System** | Laravel, MySQL | 3-level platform (Admin, Merchant, Member) |
