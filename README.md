@@ -91,14 +91,9 @@
 
 ## 🏅 Certifications
 
-## 🏅 Certifications
-
 [![AWS Cloud Training (EC2, S3)](https://img.shields.io/badge/AWS_Cloud_Training-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.coursera.org/verify/your-aws-certificate-id)
-
 [![Crash Course on Python](https://img.shields.io/badge/Crash_Course_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.coursera.org/verify/3VVSGKMQGEK6)
-
 [![Full Stack Web Development (Laravel & PHP)](https://img.shields.io/badge/Full_Stack_Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://www.coursera.org/verify/E1Q5LEBIMNC5)
-
 [![MySQL & Database Design](https://img.shields.io/badge/MySQL_Design-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.coursera.org/verify/96HB79SODEB5)
 
 ---
