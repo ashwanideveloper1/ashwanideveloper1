@@ -42,6 +42,8 @@
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_AI-5A3E2B?style=for-the-badge&logo=anthropic&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF6600?style=for-the-badge&logo=groq&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4A6FA5?style=for-the-badge&logo=deepseek&logoColor=white)
 
 ### 🛠️ Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
