@@ -8,6 +8,33 @@
 
 ---
 
+## 📝 Bio
+> Senior Backend Engineer with 7+ years of experience building scalable, high-performance applications. Passionate about microservices, AWS cloud, and AI-powered automation.
+
+---
+
+## 📍 About Me
+
+- 🏠 Based in **Dehradun, India**
+- 💼 Currently working as **Senior Backend Engineer** at Intouch Quality Services Pvt Ltd
+- 🎓 Pursuing **MCA in AI & Machine Learning** (2025-2027)
+- 🌱 Learning **Kubernetes**, **Apache Kafka**, and **System Design**
+- 🤝 Open to collaborations on **SaaS platforms** and **AI automation projects**
+- 💬 Ask me about **Laravel**, **Microservices**, **AWS**, **System Design (HLD/LLD)**
+- ⚡ Fun fact: I love optimizing database queries at 2 AM ☕
+
+---
+
+## 🎯 2026 Goals
+
+- 🔭 Contribute to **open-source Laravel packages**
+- 📚 Complete **AWS Solutions Architect Certification**
+- 🚀 Build and launch my own **SaaS product**
+- 📝 Start a **tech blog** on backend engineering
+
+---
+
+
 ## 🧰 Tech Stack
 
 ### 💻 Languages
